@@ -152,10 +152,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="cVect.cpp" />
+    <ClCompile Include="cVectb.cpp" />
     <ClCompile Include="TP_Heritage.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="cVect.h" />
+    <ClInclude Include="cVectb.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
